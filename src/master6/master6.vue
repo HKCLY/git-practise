@@ -1,6 +1,6 @@
 <template>
   <div>
-      hello-ly
+      helloyejiyejixiaoyeye
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      msg : "ly"
+      msg : "lyyenenee"
     }
   }
 }
