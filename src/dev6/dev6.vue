@@ -1,5 +1,0 @@
-<template>
-  <div>
-      dev7
-  </div>
-</template>
